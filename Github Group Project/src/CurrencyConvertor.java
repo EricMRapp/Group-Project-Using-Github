@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class CurrencyConvertor {
 
 	
-	
 	static boolean run = true;
 	static double finalNumber = 0;
 	public static void currency()

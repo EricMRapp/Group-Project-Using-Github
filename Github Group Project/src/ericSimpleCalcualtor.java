@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class ericSimpleCalcualtor {
 
-	public static void main(String[] args) {
+	public static void ericCalc()
+	{
 		//ERIC CALCULATOR
 		ArrayList<Calculator>calculationHistory = new ArrayList<Calculator>();
 		boolean run = true;
